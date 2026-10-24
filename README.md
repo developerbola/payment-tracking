@@ -2,6 +2,8 @@
 
 Oʻquvchilar, oylik toʻlovlar, toʻlangan pullar va qarzdorlarni kuzatish uchun web platforma
 
+![demo](./assets/demo.png)
+
 - **client**: React + TypeScript + Vite, Tailwind CSS, shadcn/ui — `client/`
 - **server**: Express + TypeScript, `@supabase/supabase-js` orqali Supabase (Postgres) bilan ishlaydi — `server/`
 - **db**: Supabase (free tier). frontend Supabase bilan bevosita bogʻlanmaydi; `secret key` kalitidan faqat server foydalanadi.
